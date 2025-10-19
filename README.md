@@ -22,17 +22,14 @@ Website: **[View Live Webiste](https://react-agency-pro.vercel.app)**
 
 ---
 
-## Preview  
-<div align="center">
-  <img src="src/assets/section_one.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-  <img src="src/assets/section_two.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-  <img src="src/assets/section_three.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-  <img src="src/assets/section_four.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-  <img src="src/assets/section_five.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-  <img src="src/assets/section_six.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
-</div>
+## Preview 
 
 ![Project Screenshot](src/assets/section_one.PNG)
+![Project Screenshot](src/assets/section_two.PNG)
+![Project Screenshot](src/assets/section_three.PNG)
+![Project Screenshot](src/assets/section_four.PNG)
+![Project Screenshot](src/assets/section_five.PNG)
+![Project Screenshot](src/assets/section_six.PNG)
 
 ---
 
