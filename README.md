@@ -8,12 +8,12 @@ Built with **Vite** for lightning-fast performance and **Framer Motion** for ele
 
 ---
 
-## 🚀 Live Demo  
-👉 **[View Live on Vercel](https://your-vercel-app-link.vercel.app)**
+## Live Demo  
+ **[View Live on Vercel](https://your-vercel-app-link.vercel.app)**
 
 ---
 
-## 🛠️ Tech Badges  
+## Tech Badges  
 ![React](https://img.shields.io/badge/React-18.2.0-blue)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)  
 ![FramerMotion](https://img.shields.io/badge/Framer-Motion-0055FF)  
@@ -21,25 +21,25 @@ Built with **Vite** for lightning-fast performance and **Framer Motion** for ele
 
 ---
 
-## 🎥 Preview  
+## Preview  
 *[Add your project screenshot here]*
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚡ **Blazing Fast** – Built with modern React + Vite for high performance
-- 🎨 **Beautiful UI** – Elegant design styled with Tailwind CSS
-- 🎬 **Smooth Animations** – Framer Motion brings pages to life
-- 📱 **Fully Responsive** – Looks great on mobile, tablet, and desktop
-- 🌙 **Dark Mode** – Toggle theme instantly
-- 🖱️ **Custom Cursor** – Enhances the interactive experience
-- 🎯 **Modern Design** – Perfect for digital agencies and portfolios
-- 🔧 **Easy Customization** – Clean and modular code structure
+-  **Blazing Fast** – Built with modern React + Vite for high performance
+- **Beautiful UI** – Elegant design styled with Tailwind CSS
+- **Smooth Animations** – Framer Motion brings pages to life
+- **Fully Responsive** – Looks great on mobile, tablet, and desktop
+- **Dark Mode** – Toggle theme instantly
+- **Custom Cursor** – Enhances the interactive experience
+- **Modern Design** – Perfect for digital agencies and portfolios
+- **Easy Customization** – Clean and modular code structure
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Category           | Technology                                     |
 | ------------------ | ---------------------------------------------- |
@@ -52,7 +52,7 @@ Built with **Vite** for lightning-fast performance and **Framer Motion** for ele
 
 ---
 
-## 📥 Installation & Setup
+## Installation & Setup
 
 ### **Prerequisites**
 - Node.js 16+
@@ -135,11 +135,12 @@ react-agency-pro/
 
  ## Acknowledgments  
 
-- [React Documentation](https://react.dev/)  
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
-- [Framer Motion Documentation](https://www.framer.com/motion/)  
-- [Lucide Icons](https://lucide.dev/)  
-- [Google Fonts](https://fonts.google.com/)
+- <a href="https://react.dev/" target="_blank">React Documentation</a>  
+- <a href="https://tailwindcss.com/docs" target="_blank">Tailwind CSS Documentation</a>  
+- <a href="https://www.framer.com/motion/" target="_blank">Framer Motion Documentation</a>  
+- <a href="https://lucide.dev/" target="_blank">Lucide Icons</a>  
+- <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>  
+
  
 
   ⭐ If you like this project, don't forget to give it a star
