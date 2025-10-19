@@ -142,7 +142,7 @@ react-agency-pro/
 
  ## Acknowledgments  
 
-## 🙏 Acknowledgements  
+## Acknowledgements  
 
 - [React Documentation](https://react.dev/)  
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
@@ -152,8 +152,7 @@ react-agency-pro/
 
 
  
-
-⭐ If you like this project, don't forget to give it a star
+⭐ If you found this project helpful or inspiring, please consider giving it a star, it really motivates me to create more.
 
 
 
