@@ -23,8 +23,8 @@ Website: **[View Live Webiste](https://react-agency-pro.vercel.app)**
 ---
 
 ## Preview  
-<div align="left">
-  <img src="src/assets/section_one.PNG" width="500" alt="Project Screenshot">
+<div align="center">
+  <img src="src/assets/section_one.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
 </div>
 
 ---
