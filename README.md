@@ -1,12 +1,75 @@
-# React + Vite
+# React Agency Pro  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**React Agency Pro** is a modern, responsive, and visually appealing **digital agency website** built using **React**, **Tailwind CSS**, and **Framer Motion**.  
 
-Currently, two official plugins are available:
+This project is designed to showcase a clean and professional agency layout with smooth animations, dark mode, custom cursor, and mobile-friendly responsiveness — ideal for agencies, freelancers, and creative portfolios.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with **Vite** for lightning-fast performance and **Framer Motion** for elegant transitions, it delivers a seamless and dynamic user experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo  
+👉 **[View Live on Vercel](https://your-vercel-app-link.vercel.app)**
+
+---
+
+## 🛠️ Tech Badges  
+![React](https://img.shields.io/badge/React-18.2.0-blue)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)  
+![FramerMotion](https://img.shields.io/badge/Framer-Motion-0055FF)  
+![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
+
+---
+
+## 🎥 Preview  
+*[Add your project screenshot here]*
+
+---
+
+## ✨ Features
+
+- ⚡ **Blazing Fast** – Built with modern React + Vite for high performance
+- 🎨 **Beautiful UI** – Elegant design styled with Tailwind CSS
+- 🎬 **Smooth Animations** – Framer Motion brings pages to life
+- 📱 **Fully Responsive** – Looks great on mobile, tablet, and desktop
+- 🌙 **Dark Mode** – Toggle theme instantly
+- 🖱️ **Custom Cursor** – Enhances the interactive experience
+- 🎯 **Modern Design** – Perfect for digital agencies and portfolios
+- 🔧 **Easy Customization** – Clean and modular code structure
+
+---
+
+## 💻 Tech Stack
+
+| Category           | Technology                                     |
+| ------------------ | ---------------------------------------------- |
+| **Frontend Framework** | React 18                                       |
+| **Build Tool**         | Vite                                           |
+| **Styling**            | Tailwind CSS + Custom CSS                      |
+| **Animations**         | Framer Motion                                  |
+| **Fonts**              | Google Fonts (Manrope, Outfit, Poppins, Prata) |
+| **Icons**              | Lucide React                                   |
+
+---
+
+## 📥 Installation & Setup
+
+### **Prerequisites**
+- Node.js 16+
+- npm or yarn
+
+### **Steps**
+```bash
+# Clone the repository
+git clone https://github.com/ARQUM21/react-agency-pro.git
+
+# Navigate to project directory
+cd react-agency-pro
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+bash```
