@@ -2,7 +2,7 @@
 
 **React Agency Pro** is a modern, responsive, and visually appealing **digital agency website** built using **React**, **Tailwind CSS**, and **Framer Motion**.  
 
-This project is designed to showcase a clean and professional agency layout with smooth animations, dark mode, custom cursor, and mobile-friendly responsiveness — ideal for agencies, freelancers, and creative portfolios.  
+This project is designed to showcase a clean and professional agency layout with smooth animations, dark mode, custom cursor, and mobile-friendly responsiveness, ideal for agencies, freelancers, and creative portfolios.  
 
 Built with **Vite** for lightning-fast performance and **Framer Motion** for elegant transitions, it delivers a seamless and dynamic user experience.
 
@@ -132,19 +132,17 @@ react-agency-pro/
 ## Author
  
   **Muhammad Arqum**
-Acknowledgments
 
-React
+ ## Acknowledgments  
 
-Tailwind CSS
+- [React Documentation](https://react.dev/)  
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
+- [Framer Motion Documentation](https://www.framer.com/motion/)  
+- [Lucide Icons](https://lucide.dev/)  
+- [Google Fonts](https://fonts.google.com/)
+ 
 
-Framer Motion
-
-Lucide Icons
-
-Google Fonts
-
-   ⭐ If you like this project, don't forget to give it a star!
+  ⭐ If you like this project, don't forget to give it a star
 
 
 
