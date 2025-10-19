@@ -127,7 +127,7 @@ react-agency-pro/
 ```
 
 ## Custom Cursor
- - This project features a custom cursor for better user interaction.
+ - This project includes a custom cursor for a modern and engaging browsing experience, providing smooth hover and transition effects.
 
 ## Contributing
  1. Fork the project
