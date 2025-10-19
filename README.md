@@ -142,11 +142,14 @@ react-agency-pro/
 
  ## Acknowledgments  
 
-- <a href="https://react.dev/" target="_blank">React Documentation</a>  
-- <a href="https://tailwindcss.com/docs" target="_blank">Tailwind CSS Documentation</a>  
-- <a href="https://www.framer.com/motion/" target="_blank">Framer Motion Documentation</a>  
-- <a href="https://lucide.dev/" target="_blank">Lucide Icons</a>  
-- <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>  
+## 🙏 Acknowledgements  
+
+- [React Documentation](https://react.dev/)  
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
+- [Framer Motion Documentation](https://www.framer.com/motion/)  
+- [Lucide Icons](https://lucide.dev/)  
+- [Google Fonts](https://fonts.google.com/)  
+
 
  
 
