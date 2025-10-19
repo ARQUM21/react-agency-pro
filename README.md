@@ -74,4 +74,76 @@ npm run dev
 
 ```
 
+## Project Structure
+
+```text
+react-agency-pro/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── OurWork.jsx
+│   │   ├── ServicesCard.jsx
+│   │   ├── Services.jsx
+│   │   ├── Teams.jsx
+│   │   ├── Title.jsx
+│   │   ├── ThemeToggleBtn.jsx
+│   │   ├── TrustedBy.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## Custom Styling
+ - All custom styles are in index.css:
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+  cursor: none;
+}
+
+@theme {
+  --color-primary: #5044E5;
+}
+```
+
+## Custom Cursor
+ - This project features a custom cursor for better user interaction.
+
+## Contributing
+ - Fork the project
+ - Create your feature branch (git checkout -b feature/AmazingFeature)
+ - Commit your changes (git commit -m 'Add some AmazingFeature')
+ - Push to the branch (git push origin feature/AmazingFeature)
+ - Open a Pull Request
+
+## Author
+ - **Muhammad Arqum**
+
+##Acknowledgments
+ - React
+ - Tailwind CSS
+ - Framer Motion
+ - Lucide Icons
+ - Google Fonts
+
+   ⭐ If you like this project, don't forget to give it a star!
+
+
+
+
+
+
 
