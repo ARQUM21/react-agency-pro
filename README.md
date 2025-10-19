@@ -125,19 +125,24 @@ react-agency-pro/
 ## Contributing
  1. Fork the project
  2. Create your feature branch:  ``` git checkout -b feature/AmazingFeature ```
- - Commit your changes (git commit -m 'Add some AmazingFeature')
- - Push to the branch (git push origin feature/AmazingFeature)
- - Open a Pull Request
+ 3. Commit your changes ```git commit -m 'Add some AmazingFeature'```
+ 4. Push to the branch ```git push origin feature/AmazingFeature```
+ 5. Open a Pull Request
 
 ## Author
- - **Muhammad Arqum**
+ 
+  **Muhammad Arqum**
+Acknowledgments
 
-##Acknowledgments
- - React
- - Tailwind CSS
- - Framer Motion
- - Lucide Icons
- - Google Fonts
+React
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide Icons
+
+Google Fonts
 
    ⭐ If you like this project, don't forget to give it a star!
 
