@@ -31,6 +31,7 @@ Website: **[View Live Webiste](https://react-agency-pro.vercel.app)**
   <img src="src/assets/section_five.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
   <img src="src/assets/section_six.PNG" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Project Screenshot">
 </div>
+![Project Screenshot](src/assets/section_one.PNG)
 
 ---
 
