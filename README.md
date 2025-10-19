@@ -22,7 +22,7 @@ Website: **[View Live Webiste](https://react-agency-pro.vercel.app)**
 
 ---
 
-## Preview 
+## Project Preview 
 
 ![Project Screenshot](src/assets/section_one.PNG)
 ![Project Screenshot](src/assets/section_two.PNG)
