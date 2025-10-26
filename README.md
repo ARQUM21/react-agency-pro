@@ -167,8 +167,11 @@ react-agency-pro/
 - [Google Fonts](https://fonts.google.com/)
 
 ## Author
- 
-  **Muhammad Arqum**
+
+**Muhammad Arqum Tariq**  
+📧 **Email:** [marqum987@gmail.com](mailto:marqum987@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/marqum](https://www.linkedin.com/in/marqum)
+
 
 
  
