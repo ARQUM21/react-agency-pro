@@ -8,6 +8,27 @@ Built with **Vite** for lightning-fast performance and **Framer Motion** for ele
 
 ---
 
+## 📑 Table of Contents
+
+- [Live Demo](#live-demo)
+- [Tech Badges](#tech-badges)
+- [Project Preview](#project-preview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation & Setup](#installation--setup)
+- [Project Structure](#project-structure)
+- [Custom Styling](#custom-styling)
+- [Custom Cursor](#custom-cursor)
+- [Contributing](#contributing)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+## Installation
+
+---
+
 ## Live Demo
 
 Website: **[View Live Webiste](https://react-agency-pro.vercel.app)**
