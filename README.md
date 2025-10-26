@@ -20,8 +20,8 @@ Built with **Vite** for lightning-fast performance and **Framer Motion** for ele
 - [Custom Styling](#custom-styling)
 - [Custom Cursor](#custom-cursor)
 - [Contributing](#contributing)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [Author](#author)
 
 ---
 
@@ -157,11 +157,6 @@ react-agency-pro/
  4. Push to the branch ```git push origin feature/AmazingFeature```
  5. Open a Pull Request
 
-## Author
- 
-  **Muhammad Arqum**
-
- ## Acknowledgments  
 
 ## Acknowledgements  
 
@@ -169,7 +164,11 @@ react-agency-pro/
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
 - [Framer Motion Documentation](https://www.framer.com/motion/)  
 - [Lucide Icons](https://lucide.dev/)  
-- [Google Fonts](https://fonts.google.com/)  
+- [Google Fonts](https://fonts.google.com/)
+
+## Author
+ 
+  **Muhammad Arqum**
 
 
  
